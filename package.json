@@ -293,7 +293,7 @@
     "aws4fetch": "^1.0.20",
     "braces": "file:vendor/braces",
     "canvas-confetti": "^1.9.4",
-    "convex": "^1.32.0",
+    "convex": "^1.48.0",
     "d3": "^7.9.0",
     "deck.gl": "^9.4.0",
     "dompurify": "^3.4.17",
