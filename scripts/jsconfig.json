@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "strict": true,
+    "noImplicitAny": true,
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "allowJs": false,
+    "maxNodeModuleJsDepth": 0,
+    "skipLibCheck": true
+  },
+  "include": [
+    "seed-forecasts.mjs",
+    "seed-forecasts.types.d.ts",
+    "seed-regional-snapshots.mjs",
+    "regional-snapshot/**/*.mjs",
+    "../shared/regions.types.d.ts",
+    "../shared/geography.d.ts"
+  ],
+  "exclude": []
+}
